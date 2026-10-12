@@ -4,8 +4,6 @@ A single-participant mixed-reality installation for Meta Quest 3.
 
 The participant stands at a table, looks into a small acrylic case and places blocks into it to manage two miniature virtual workers. Floating dashboards report on the workers. Partway through, the central dashboard quietly turns out to have been recording the participant all along, in exactly the same format.
 
-MA Computational Arts, Goldsmiths, University of London — final project by Willy.
-
 **[Watch the video demo](https://vimeo.com/1225230974)**
 
 ![In-headset view during a shift: the central panel reads TEAM LEAD (YOU) · FLAGGED, the office worker has collapsed and the participant's hand is placing an ASSIST block](screenshot.webp)
